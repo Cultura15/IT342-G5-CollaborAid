@@ -20,8 +20,8 @@ The Chat Service Support enables admins to view and manage incident reports subm
 1.3 Info and Support Center
 It serves as a knowledge base where users can find important platform information, including updates, terms, and FAQs. It also provides contact forms for support, making it easy for users to reach out for help and stay informed about the app's developments.
 
-1.4 Live Chat
-A built-in chat feature allows users to easily connect with library staff for support, including inquiries about book availability, library policies, or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, providing users with quick solutions. 
+1.4 Live Chat Support
+A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
 (Mobile)
 
@@ -39,8 +39,8 @@ Enable users to communicate directly with others, discuss tasks, and share ideas
 2.4 Ratings and Tips
 Allows users to rate their experiences with others and leave tips as a form of appreciation for assistance. These tips can be used to unlock features
 
-2.5 Live Chat
-A built-in chat feature allows users to easily connect with library staff for support, including inquiries about book availability, library policies, or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, providing users with quick solutions. 
+2.5 Live Chat Support
+A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
 
 
