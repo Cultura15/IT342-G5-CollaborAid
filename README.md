@@ -46,7 +46,7 @@ A built-in chat feature allows users to easily connect with staff for support, i
 
 Links:
 
-Figma - https://www.figma.com/design/XzRh1hrGCMO6OXfgl5G9Xn/CollaborAid-Mobile?node-id=0-1&t=mYxPi7nZ5rGdlXfq-1
+Figma - https://www.figma.com/design/XzRh1hrGCMO6OXfgl5G9Xn/CollaborAid-Mobile?node-id=0-1&t=mYxPi7nZ5rGdlXfq-1 <br>
 ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram:workspace=sdlfpmvj&proj=0&id=2
 
 
