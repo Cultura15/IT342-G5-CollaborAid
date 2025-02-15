@@ -58,7 +58,6 @@ ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram
 
 
 **`Member 1`**
-
 **`Name:`** Jesson Chyd Cultura
 
 **`Course & Year:`** BSIT - 3 
@@ -79,7 +78,6 @@ doing new things, and I believe this will be a great asset to my career as a IT 
 
 <br><br>
 **`Member 3`**
-
 **`Name:`** Harold E. Destura
 
 **`Course & Year:`** BSIT - 3
