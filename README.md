@@ -2,13 +2,14 @@
 
 
 ### System Name: CollaborAid 
-<br> <br>
+<br> 
 
 ### Product Description: 
 
 CollaborAid is a platform where users can post tasks or activities, they need help with, and others can offer to assist. To encourage participation, the app uses a reward and leveling system that makes helping others engaging and fun. The goal is to create a supportive community where everyone benefits by working together.
 <br><br>
 
+---
 
 ### List of Features:
 
@@ -47,7 +48,7 @@ A built-in chat feature allows users to easily connect with staff for support, i
 
 ### Links:
 
-Figma - https://www.figma.com/design/XzRh1hrGCMO6OXfgl5G9Xn/CollaborAid-Mobile?node-id=0-1&t=mYxPi7nZ5rGdlXfq-1 <br>
+Figma - https://www.figma.com/design/XzRh1hrGCMO6OXfgl5G9Xn/CollaborAid-Mobile?node-id=0-1&t=mYxPi7nZ5rGdlXfq-1 <br><br>
 ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram:workspace=sdlfpmvj&proj=0&id=2
 
 ---
@@ -58,11 +59,11 @@ ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram
 
 **`Member 1`**
 
-NAME: Jesson Chyd Cultura
+**`Name:`** Jesson Chyd Cultura
 
-COURSE & YEAR: BSIT - 3 
+**`Course & Year:`** BSIT - 3 
 
-Short Description About Myself: <br>
+**`Short Description about myself:`** <br>
 I am a chill guy who loves playing guitar, video games, and sports. One hobby of mine is that I love petting fish because it makes my mind calm and helps push away negativity. I believe that every person is born with talent, and that every event in life happens as an opportunity to choose love over fear. So rather than fearing something, I will just love and embrace it. And I thank you for reading!
 
 <br><br>
