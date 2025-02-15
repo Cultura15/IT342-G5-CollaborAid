@@ -58,7 +58,7 @@ A built-in chat feature allows users to easily connect with staff for support, i
 
 
 **`👤Member 1`**<br>
-**`Name:`** Jesson Chyd Cultura
+**`Name:`** Jesson Chyd M. Cultura
 
 **`Course & Year:`** BSIT - 3 
 
