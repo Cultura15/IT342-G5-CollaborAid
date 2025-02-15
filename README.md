@@ -57,7 +57,7 @@ A built-in chat feature allows users to easily connect with staff for support, i
 <br><br>
 
 
-**`Member 1`**<br>
+**`👤Member 1`**<br>
 **`Name:`** Jesson Chyd Cultura
 
 **`Course & Year:`** BSIT - 3 
@@ -66,7 +66,7 @@ A built-in chat feature allows users to easily connect with staff for support, i
 I am a chill guy who loves playing guitar, video games, and sports. One hobby of mine is that I love petting fish because it makes my mind calm and helps push away negativity. I believe that every person is born with talent, and that every event in life happens as an opportunity to choose love over fear. So rather than fearing something, I will just love and embrace it. And I thank you for reading!
 
 <br><br>
-**`Member 2`** <br>
+**`👤Member 2`** <br>
 **`Name:`** Jhudiel Adrian B. Artezuela
 
 **`Course & Year:`** BSIT-3
@@ -77,7 +77,7 @@ do I have a lot of hobbies? It is because of the saying I have been leaning to a
 doing new things, and I believe this will be a great asset to my career as a IT professional.
 
 <br><br>
-**`Member 3`**<br>
+**`👤Member 3`**<br>
 **`Name:`** Harold E. Destura
 
 **`Course & Year:`** BSIT - 3
