@@ -2,11 +2,12 @@
 
 
 ### System Name: CollaborAid 
+<br> <br>
 
 ### Product Description: 
 
 CollaborAid is a platform where users can post tasks or activities, they need help with, and others can offer to assist. To encourage participation, the app uses a reward and leveling system that makes helping others engaging and fun. The goal is to create a supportive community where everyone benefits by working together.
-
+<br><br>
 
 
 ### List of Features:
@@ -42,7 +43,7 @@ Allows users to rate their experiences with others and leave tips as a form of a
 2.5 Live Chat Support
 A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
-
+---
 
 ### Links:
 
@@ -55,37 +56,36 @@ ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram
 
 
 
-TEAM MEMBERS:
+**`Member 1`**
 
-Member3
-NAME: HAROLD E. DESTURA
-COURSE & YEAR: BSIT-3
+NAME: Jesson Chyd Cultura
 
-## Member 1: Jesson Chyd M. Cultura
+COURSE & YEAR: BSIT - 3 
 
-### Course & Year:
-- **BSIT 3**
-
-### Short Description About Myself:
+Short Description About Myself:
 I am a chill guy who loves playing guitar, video games, and sports. One hobby of mine is that I love petting fish because it makes my mind calm and helps push away negativity. I believe that every person is born with talent, and that every event in life happens as an opportunity to choose love over fear. So rather than fearing something, I will just love and embrace it. And I thank you for reading!
 
-==========
 
-Member2
+**`Member 2`**
 NAME: Jhudiel Adrian B. Artezuela
+
 COURSE & YEAR: BSIT-3
 
+Short Description About Myself:
 Hello, I'm Jhudiel but you can call me Adrian. I like to travel on a motorcycle, play video games, read manhuas, play sports and many much more. Why 
 do I have a lot of hobbies? It is because of the saying I have been leaning to all my life, which is "You only live once". Knowing that means I enjoy
 doing new things, and I believe this will be a great asset to my career as a IT professional.
 
-==========
 
-Member 3:
+**`Member 3`**
+
 NAME: Harold E. Destura
+
 COURSE & YEAR: BSIT - 3
+
+Short Description About Myself:
 I am Harold E. Destura and I am 20 years old. I am a 3rd year BSIT student in Cebu Institute of Technology University. I live in Patao, Bantayan, Cebu and currently residing here at Tabada Mambaling. My friends call me as "rold". My hobbies are playing musical instruments and watching Anime. 
-=======
+
 
 
 
