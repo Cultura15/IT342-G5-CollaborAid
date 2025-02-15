@@ -15,33 +15,33 @@ CollaborAid is a platform where users can post tasks or activities, they need he
 
 **`💻(Web Features)`**
 
-1.1 Admin Dashboard
+- 1.1 Admin Dashboard
 The Admin Dashboard provides a central hub for administrators to oversee platform activity, including user management, task monitoring, and reward distribution. It allows admins to manage tasks, track user progress, and ensure smooth platform operations.
 
-1.2 Chat Service Support
+- 1.2 Chat Service Support
 The Chat Service Support enables admins to view and manage incident reports submitted by users, such as bug reports, crash notifications, or other issues. This feature allows admins to respond quickly and resolve issues that impact user experience.
 
-1.3 Info and Support Center
+- 1.3 Info and Support Center
 It serves as a knowledge base where users can find important platform information, including updates, terms, and FAQs. It also provides contact forms for support, making it easy for users to reach out for help and stay informed about the app's developments.
 
-1.4 Live Chat Support
+- 1.4 Live Chat Support
 A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support. <br> <br>
 
 **`📱(Mobile Features)`**
 
-2.1 Task Marketplace  
+- 2.1 Task Marketplace  
 Allows users to post tasks or activities they need help with and wait for others to accept their offers. It facilitates the exchange of help by connecting users with those willing to assist, making it a collaborative space for task completion.
 
-2.2 Leveling System 
+- 2.2 Leveling System 
 The Leveling System rewards users for helping others and completing tasks, enabling them to level up as they contribute more to the community. Additionally, the Leaderboard displays the top users based on their level and activity.
 
-2.3 Messaging and Collaboration 
+- 2.3 Messaging and Collaboration 
 Enable users to communicate directly with others, discuss tasks, and share ideas or progress. This feature fosters teamwork and ensures smooth coordination between users offering and receiving help.
 
-2.4 Ratings and Tips
+- 2.4 Ratings and Tips
 Allows users to rate their experiences with others and leave tips as a form of appreciation for assistance. These tips can be used to unlock features
 
-2.5 Live Chat Support
+- 2.5 Live Chat Support
 A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
 ---
