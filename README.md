@@ -1,15 +1,17 @@
 # IT342-G5-CollaborAid
 
 
-System Name: CollaborAid
+<h1> - System Name: CollaborAid </h1>
 
-Product Description: 
+- Product Description: 
 
 CollaborAid is a platform where users can post tasks or activities, they need help with, and others can offer to assist. To encourage participation, the app uses a reward and leveling system that makes helping others engaging and fun. The goal is to create a supportive community where everyone benefits by working together.
 
+---
+
 List of Features:
 
-(Web App)
+**`(Web Features)`**
 
 1.1 Admin Dashboard
 The Admin Dashboard provides a central hub for administrators to oversee platform activity, including user management, task monitoring, and reward distribution. It allows admins to manage tasks, track user progress, and ensure smooth platform operations.
@@ -23,7 +25,7 @@ It serves as a knowledge base where users can find important platform informatio
 1.4 Live Chat Support
 A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
-(Mobile)
+**`(Mobile Features)`**
 
 2.1 Task Marketplace  
 Allows users to post tasks or activities they need help with and wait for others to accept their offers. It facilitates the exchange of help by connecting users with those willing to assist, making it a collaborative space for task completion.
@@ -42,13 +44,14 @@ Allows users to rate their experiences with others and leave tips as a form of a
 2.5 Live Chat Support
 A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
 
-
+---
 
 Links:
 
 Figma - https://www.figma.com/design/XzRh1hrGCMO6OXfgl5G9Xn/CollaborAid-Mobile?node-id=0-1&t=mYxPi7nZ5rGdlXfq-1 <br>
 ERD - https://online.visual-paradigm.com/share.jsp?id=333535313230342d32#diagram:workspace=sdlfpmvj&proj=0&id=2
 
+---
 
 Developers Profile:
 
