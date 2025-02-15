@@ -1,9 +1,9 @@
 # IT342-G5-CollaborAid
 
 
-- System Name: CollaborAid 
+### System Name: CollaborAid 
 
-- Product Description: 
+### Product Description: 
 
 CollaborAid is a platform where users can post tasks or activities, they need help with, and others can offer to assist. To encourage participation, the app uses a reward and leveling system that makes helping others engaging and fun. The goal is to create a supportive community where everyone benefits by working together.
 
@@ -23,7 +23,7 @@ The Chat Service Support enables admins to view and manage incident reports subm
 It serves as a knowledge base where users can find important platform information, including updates, terms, and FAQs. It also provides contact forms for support, making it easy for users to reach out for help and stay informed about the app's developments.
 
 1.4 Live Chat Support
-A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support.
+A built-in chat feature allows users to easily connect with staff for support, including inquiries about policies or troubleshooting issues. In addition, an AI-powered assistant is available to instantly answer common questions, and redirect them to a live chat support. <br> <br>
 
 **`(Mobile Features)`**
 
@@ -33,10 +33,8 @@ Allows users to post tasks or activities they need help with and wait for others
 2.2 Leveling System 
 The Leveling System rewards users for helping others and completing tasks, enabling them to level up as they contribute more to the community. Additionally, the Leaderboard displays the top users based on their level and activity.
 
-
 2.3 Messaging and Collaboration 
 Enable users to communicate directly with others, discuss tasks, and share ideas or progress. This feature fosters teamwork and ensures smooth coordination between users offering and receiving help.
-
 
 2.4 Ratings and Tips
 Allows users to rate their experiences with others and leave tips as a form of appreciation for assistance. These tips can be used to unlock features
